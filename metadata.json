@@ -1,0 +1,8 @@
+
+{
+  "name": "TechFix Pro - Ihr Express-Reparaturservice",
+  "description": "Ein moderner Service-Center für Laptops, Smartphones und Audio-Geräte mit KI-gestützter Fehlerdiagnose.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
