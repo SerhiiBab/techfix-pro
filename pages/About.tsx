@@ -30,7 +30,7 @@ const About: React.FC = () => {
             </div>
           </div>
           <div className="flex-1">
-            <img src="https://picsum.photos/seed/team/800/600" className="rounded-3xl shadow-2xl" alt="Our team" />
+            <img src="/images/ueber-uns.jpg" className="rounded-3xl shadow-2xl" alt="Our team" />
           </div>
         </div>
 

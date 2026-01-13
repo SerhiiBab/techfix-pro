@@ -53,7 +53,7 @@ const Contact: React.FC = () => {
             </div>
 
             <div className="rounded-3xl overflow-hidden shadow-lg h-64 grayscale opacity-80 border border-slate-200">
-               <img src="https://picsum.photos/seed/map/800/600" className="w-full h-full object-cover" alt="Map placeholder" />
+               <img src="/images/kontakt.jpg" className="w-full h-full object-cover" alt="Map placeholder" />
             </div>
           </div>
 
