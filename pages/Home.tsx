@@ -27,7 +27,7 @@ const Home: React.FC = () => {
           </div>
           <div className="flex-1 relative">
             <img 
-              src="/images/reparatur-start.png"
+              src="/images/reparatur-start.jpg"
               alt="Technician repairing a device" 
               className=" relative z-10 w-full object-cover aspect-[4/3]"
             />
