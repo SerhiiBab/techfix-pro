@@ -2,7 +2,7 @@ import { GoogleGenAI, Type } from "@google/genai";
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
 const ai = new GoogleGenAI({
-  apiKey: process.env.GEMINI_API_KEY!,
+  apiKey: process.env.API_KEY!,
 });
 
 export default async function handler(
