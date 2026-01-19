@@ -1,20 +1,93 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# TechFix Pro
 
-# Run and deploy your AI Studio app
+# Projektübersicht
 
-This contains everything you need to run your app locally.
+TechFix Pro ist eine moderne Webanwendung zur Präsentation und Verwaltung von Reparatur- und Technikdienstleistungen. Ziel des Projekts ist es, Dienstleistungen klar, strukturiert und vertrauenswürdig darzustellen sowie Kunden eine einfache Kontaktaufnahme und Orientierung zu ermöglichen.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+Die Anwendung legt den Fokus auf eine saubere Benutzerführung, modernes UI-Design und eine technisch solide Frontend-Architektur.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+# Funktionen
+
+* Präsentation von Reparatur- und Technikdienstleistungen
+* Klare und verständliche Serviceübersicht
+* Moderne, benutzerfreundliche Oberfläche
+* Responsive Design für Desktop und Mobile
+* Strukturierte Inhalte mit Fokus auf UX
+
+---
+
+# Technologie-Stack
+
+# Frontend
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+
+# Backend
+
+* Node.js
+* REST API
+
+# KI & Datenverarbeitung
+
+* Gemini AI
+
+# Deployment & Tools
+
+* Git
+* Vercel / Cloud Deployment
+
+---
+
+# Installation & Start
+
+# Voraussetzungen
+
+* Node.js (>= 18)
+* npm oder yarn
+
+# Installation
+npm install
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Entwicklungsserver starten
+npm run dev
+
+# Produktions-Build
+npm run build
+
+---
+
+# Zielgruppe
+
+* Kleine und mittlere Reparatur- und Technikdienstleister
+* Kunden auf der Suche nach klaren Serviceangeboten
+* Entwickler, die moderne Service-Websites umsetzen möchten
+
+---
+
+# Projektziel
+
+Dieses Projekt dient sowohl als praxisnahes Produkt als auch als Portfolio-Projekt mit Fokus auf:
+
+* Klare Service-Kommunikation
+* Saubere UI/UX-Struktur
+* Moderne Frontend-Architektur
+
+---
+
+## Lizenz
+
+Dieses Projekt ist zu Lern- und Demonstrationszwecken gedacht.
+
+---
+
+## Autor
+
+Serge Babych
+
+Web Developer | AI Frontend Integrator | LLM Engineering
